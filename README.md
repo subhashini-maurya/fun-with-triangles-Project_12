@@ -6,3 +6,5 @@ Let your imagination run wild for this one. Some ideas which you can do. Create 
   + do this for right and acute triangles too.
 - Show two angles to the user and ask what would be the third angle?
 - Similar quiz on Isosceles, Equilateral.
+- Ask them to enter two legs and you tell them the hypotenuse.
+- Calculator for area of triangle
