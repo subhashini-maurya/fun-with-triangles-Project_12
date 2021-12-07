@@ -8,14 +8,7 @@ Let your imagination run wild for this one. Some ideas which you can do. Create 
 - Similar quiz on Isosceles, Equilateral.
 - Ask them to enter two legs and you tell them the hypotenuse.
 - Calculator for area of triangle
-# How to use:
 
-Click on section you want to open.
-
-    Play Quiz: Select answers and click on submit to check the score
-    Angles of Triangle: Enter values in input fields and click on submit to check results.
-    Check Hypotenuse: Enter values in input fields and click on submit to check results.
-    Calculate Area: Enter values in input fields and click on submit to check results.
  # Programming Language:
  - html
   - css
